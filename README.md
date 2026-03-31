@@ -9,4 +9,3 @@ Computer Science student based in Vilnius, Lithuania.
 
 ## 🚀 Projects
 - [**PulseDesk**](https://github.com/KamGytis/Comment-to-Ticket-Triage) — AI-powered comment-to-ticket triage system using Spring Boot and Hugging Face
-- [**Viddo**](https://github.com/KamGytis/Viddo) — Video converter web app built with Spring Boot, yt-dlp and React
