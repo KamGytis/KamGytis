@@ -3,7 +3,7 @@
 Computer Science student based in Vilnius, Lithuania.
 
 ##  Tech Stack
-- **Backend**: Java, Spring Boot, C++
+- **Backend**: Java, Spring Boot, C++, Ruby
 - **Frontend**: React, TypeScript
 - **Tools**: Docker, Git, Maven
 
